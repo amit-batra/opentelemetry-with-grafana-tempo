@@ -57,9 +57,3 @@ build/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Application specific
-application*.yml
-application*.properties
-!application-example.yml
-!application-example.properties
